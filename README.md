@@ -8,7 +8,7 @@ Welcome to **Stationery Shop B4A2V5**, a robust backend application designed to 
 
 ## 📹 **Project Video Review**  
 Watch the full walkthrough of this project, showcasing its features and functionality.  
-👉 **[Watch Video Review](#)** *(Add your video link here)*  
+👉 **[Watch Video Review](#)** *(https://drive.google.com/file/d/1vvLbQ63-IzECNGUfULKIPy7uKXD6pvdw/view?usp=drive_link)*  
 
 ---
 
